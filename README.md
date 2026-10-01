@@ -548,7 +548,7 @@ If deployment fails, check the following:
 
 ## Related Repository
 
-	• [EKS-GitOps-Platform-ArgoCD-On-EKS](https://github.com/QaysAlnajjad/EKS-GitOps-Platform-ArgoCD-On-EKS): declarative Kubernetes applications and in-cluster resources managed by ArgoCD
+	[EKS-GitOps-Platform-ArgoCD-On-EKS](https://github.com/QaysAlnajjad/EKS-GitOps-Platform-ArgoCD-On-EKS): declarative Kubernetes applications and in-cluster resources managed by ArgoCD
 
 ---
 
