@@ -40,7 +40,7 @@ This repository builds the base AWS and Kubernetes platform, including:
 - initial Kubernetes access mapping
 - ArgoCD bootstrap handoff to the GitOps applications repository
 
-The handoff happens through the root ArgoCD application defined in `bootstrap/root-app.yaml`, which points to the `apps/` path in the `eks-gitops-apps` repository.
+The handoff happens through the root ArgoCD application defined in `bootstrap/root-app.yaml`, which points to the `apps/` path in the `github.com/QaysAlnajjad/EKS-GitOps-Platform-ArgoCD-On-EKS/edit/main/README.md` repository.
 
 ---
 
