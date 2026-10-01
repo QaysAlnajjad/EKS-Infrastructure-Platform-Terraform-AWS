@@ -326,7 +326,7 @@ are all managed declaratively from the GitOps repository.
 
 ### 1. Clone repository
 ```text
-  git clone https://github.com/QaysAlnajjad/eks-infrastructure.git
+  git clone https://github.com/QaysAlnajjad/EKS-Infrastructure-Platform-Terraform-AWS
   cd eks-infrastructure
 ```
 
